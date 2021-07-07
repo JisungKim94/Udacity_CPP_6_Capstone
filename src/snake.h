@@ -27,12 +27,11 @@ public:
   void SetBoard(Board *board_);
   void ChangeDirection(Direction newDirection);
   void Update(Food &food);
-  void IncrementSpeed(float value);
+  template <typename T> void IncrementSpeed(T value);
   void Die();
   void GrowBody();
   bool GetIsAlive();
   void SetAlive(bool value);
-  // bool SnakeCell(int x, int y);
 
   Direction direction = Direction::kUp;
 

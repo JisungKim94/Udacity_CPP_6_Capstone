@@ -4,14 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/kjs/My_Workspace/Udacity-Capstone/src/board.cpp" "/home/kjs/My_Workspace/Udacity-Capstone/build/CMakeFiles/SnakeGame.dir/src/board.cpp.o"
-  "/home/kjs/My_Workspace/Udacity-Capstone/src/controller.cpp" "/home/kjs/My_Workspace/Udacity-Capstone/build/CMakeFiles/SnakeGame.dir/src/controller.cpp.o"
-  "/home/kjs/My_Workspace/Udacity-Capstone/src/food.cpp" "/home/kjs/My_Workspace/Udacity-Capstone/build/CMakeFiles/SnakeGame.dir/src/food.cpp.o"
-  "/home/kjs/My_Workspace/Udacity-Capstone/src/game.cpp" "/home/kjs/My_Workspace/Udacity-Capstone/build/CMakeFiles/SnakeGame.dir/src/game.cpp.o"
-  "/home/kjs/My_Workspace/Udacity-Capstone/src/main.cpp" "/home/kjs/My_Workspace/Udacity-Capstone/build/CMakeFiles/SnakeGame.dir/src/main.cpp.o"
-  "/home/kjs/My_Workspace/Udacity-Capstone/src/renderer.cpp" "/home/kjs/My_Workspace/Udacity-Capstone/build/CMakeFiles/SnakeGame.dir/src/renderer.cpp.o"
-  "/home/kjs/My_Workspace/Udacity-Capstone/src/snake.cpp" "/home/kjs/My_Workspace/Udacity-Capstone/build/CMakeFiles/SnakeGame.dir/src/snake.cpp.o"
-  "/home/kjs/My_Workspace/Udacity-Capstone/src/snakecommand.cpp" "/home/kjs/My_Workspace/Udacity-Capstone/build/CMakeFiles/SnakeGame.dir/src/snakecommand.cpp.o"
+  "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/src/board.cpp" "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/build/CMakeFiles/SnakeGame.dir/src/board.cpp.o"
+  "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/src/controller.cpp" "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/build/CMakeFiles/SnakeGame.dir/src/controller.cpp.o"
+  "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/src/food.cpp" "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/build/CMakeFiles/SnakeGame.dir/src/food.cpp.o"
+  "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/src/game.cpp" "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/build/CMakeFiles/SnakeGame.dir/src/game.cpp.o"
+  "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/src/main.cpp" "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/build/CMakeFiles/SnakeGame.dir/src/main.cpp.o"
+  "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/src/renderer.cpp" "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/build/CMakeFiles/SnakeGame.dir/src/renderer.cpp.o"
+  "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/src/snake.cpp" "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/build/CMakeFiles/SnakeGame.dir/src/snake.cpp.o"
+  "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/src/snakecommand.cpp" "/home/kjs/My_Workspace/Udacity_CPP_6_Capstone/build/CMakeFiles/SnakeGame.dir/src/snakecommand.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

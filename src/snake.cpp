@@ -123,8 +123,7 @@ void Snake::ChangeDirection(Snake::Direction newDirection) {
     direction = newDirection;
   return;
 }
-
-void Snake::IncrementSpeed(float value) {
+template <typename T> void Snake::IncrementSpeed(T value) {
   std::unique_lock<std::mutex> lck(mtx_);
   speed += value;
 }
